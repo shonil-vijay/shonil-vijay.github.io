@@ -1,0 +1,20 @@
+{
+  "applinks": {
+    "details": [
+      {
+        "appIDs": ["MXG4ZF82U3.com.rashsoft.StarWalk"],
+        "components": [
+          {
+            "/": "/starwalks-site/join",
+            "?": { "code": "?*" },
+            "comment": "Group invite with a code"
+          },
+          {
+            "/": "/starwalks-site/join*",
+            "comment": "Group invite (any join path)"
+          }
+        ]
+      }
+    ]
+  }
+}
